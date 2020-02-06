@@ -19,7 +19,7 @@ f = 'right'
 def pljc():
     pl = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a2.png', confidence=0.9)  # 疲劳值为空的判断
     plex = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a5.png', confidence=0.9)  # ex空疲劳
-    time.sleep(1.5)
+    time.sleep(2)
     if pl or plex:
         change_role()
     else:
@@ -27,16 +27,14 @@ def pljc():
 
 
 def change_role():
-    global t1
-    t1 = time.time()
     while True:
         pyautogui.keyDown('esc')
         pyautogui.keyUp('esc')
         time.sleep(random.random())
-        pyautogui.moveTo(383, 355)
+        pyautogui.moveTo(610, 555)
         pyautogui.mouseDown()
         pyautogui.mouseUp()
-        time.sleep(0.33)
+        time.sleep(3.33)
         xzjs = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a3.png', confidence=0.9)  # 选择角色页面
         time.sleep(2)
         if xzjs:
@@ -54,24 +52,24 @@ def change_role():
 
 def move_to():
     pl = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a2.png', confidence=0.9)  # 疲劳值为空的判断
-    time.sleep(1)
+    time.sleep(2)
     if pl:
         change_role()
     else:
         pyautogui.keyDown('down')
-        time.sleep(2.33)
+        time.sleep(1.33)
         pyautogui.keyUp('down')
         pyautogui.keyDown('n')
         pyautogui.keyUp('n')
         time.sleep(0.33)
         for i in range(2):
-            pyautogui.moveTo(386, 217)
+            pyautogui.moveTo(618, 338)
             pyautogui.mouseDown()
             pyautogui.mouseUp()
-        time.sleep(6.66)
+        time.sleep(5.67)
         pyautogui.keyDown('n')
         pyautogui.keyUp('n')
-        time.sleep(0.33)
+        time.sleep(0.66)
         pyautogui.keyDown("up")
         time.sleep(0.33)
         pyautogui.keyUp("up")
@@ -98,23 +96,22 @@ def move_to():
         pyautogui.keyUp("right")
         time.sleep(1)
         for i in range(2):
-            pyautogui.moveTo(548, 319)
+            pyautogui.moveTo(849, 511)
             pyautogui.mouseDown()
             pyautogui.mouseUp()
             pyautogui.keyDown("space")
             pyautogui.keyUp("space")
-            pyautogui.moveTo(246, 353)
+            pyautogui.moveTo(363, 548)
             pyautogui.mouseDown()
             pyautogui.mouseUp()
             pyautogui.keyDown("space")
             pyautogui.keyUp("space")
-        time.sleep(1)
+        time.sleep(0.33)
         pyautogui.keyDown('esc')
         pyautogui.keyUp('esc')
 
 
 def auto_attack():
-
     pyautogui.keyDown("space")
     pyautogui.keyUp("space")
     pyautogui.keyUp("x")
@@ -136,15 +133,14 @@ def auto_attack():
 
 
 def pickup():
-    for i in range(2):
-        pyautogui.keyDown('ctrlleft')
-        pyautogui.mouseDown()
-        pyautogui.mouseUp()
-        pyautogui.keyUp('ctrlleft')
-        pyautogui.keyDown('ctrl')
-        pyautogui.mouseDown()
-        pyautogui.mouseUp()
-        pyautogui.keyUp('ctrl')
+    pyautogui.keyDown('ctrlleft')
+    pyautogui.mouseDown()
+    pyautogui.mouseUp()
+    pyautogui.keyUp('ctrlleft')
+    pyautogui.keyDown('ctrl')
+    pyautogui.mouseDown()
+    pyautogui.mouseUp()
+    pyautogui.keyUp('ctrl')
 
     pyautogui.keyDown('esc')
     pyautogui.keyUp('esc')
@@ -168,7 +164,7 @@ def one_more():
 
 while True:
     sfjx = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a4.png', confidence=0.9)  # 再次挑战
-    cz = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a1.png', confidence=0.8)  # 在城镇
+    cz = pyautogui.locateOnScreen('/Users/yi/Desktop/321Fight/Auto_QL_2020CJ/a1.png', confidence=0.9)  # 在城镇
     # right = pyautogui.locateOnScreen('/Users/yi/Desktop/FORFND/auto_GD/a6.png', confidence=0.8)  # 向右换角色
     # left = pyautogui.locateOnScreen('/Users/yi/Desktop/FORFND/auto_GD/a9.png', confidence=0.8)  # 向左换角色
     # time.sleep(2)

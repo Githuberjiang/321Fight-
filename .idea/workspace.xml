@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcbfa465-c860-4aea-869d-46ea0c536f6c" name="Default Changelist" comment="" />
+    <list default="true" id="dcbfa465-c860-4aea-869d-46ea0c536f6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/111.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/a1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/a1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/a2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/a2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/a3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/a3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/a4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/a4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auto_QL_2020CJ/a5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Auto_QL_2020CJ/a5.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="237">
+              <caret line="166" column="100" selection-start-line="166" selection-start-column="100" selection-end-line="166" selection-end-column="100" />
               <folding>
                 <element signature="e#42#58#0" expanded="true" />
               </folding>
@@ -23,25 +32,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="32" column="49" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/111.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a4.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -60,11 +56,6 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a4.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -73,6 +64,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,10 +85,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1024" />
-    <option name="height" value="640" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectId" id="1WY51OBh5qVW1qWurNtXfpNXwxP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Auto_QL_ForAir1">
+  <component name="RunManager" selected="Python.111">
     <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="321Fight" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,8 +262,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Auto_QL_ForAir1" />
         <item itemvalue="Python.111" />
+        <item itemvalue="Python.Auto_QL_ForAir1" />
         <item itemvalue="Python.auto_GD" />
         <item itemvalue="Python.tst" />
         <item itemvalue="Python.Auto_QL_ForAir" />
@@ -301,15 +296,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1024" height="640" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22731805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15170771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22669104" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17538896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,6 +387,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_QL/a5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/auto_GD.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -400,34 +407,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_QL/a5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          <folding>
-            <element signature="e#42#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="136">
           <caret line="32" column="49" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a2.png">
@@ -439,8 +429,15 @@
     <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/a4.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/Auto_QL_2020CJ/Auto_QL_ForAir1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="166" column="100" selection-start-line="166" selection-start-column="100" selection-end-line="166" selection-end-column="100" />
+          <folding>
+            <element signature="e#42#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
